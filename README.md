@@ -44,5 +44,4 @@ Here are a few examples of my work.
 ---
 
 ## 📫 Let’s Connect!
-- [**Email**](mailto:angelikamajewska47@gmail.com)
 - [**LinkedIn**](https://www.linkedin.com/](https://www.linkedin.com/in/angelikamajewska/))
