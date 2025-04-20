@@ -34,19 +34,6 @@ Here are a few examples of my work.
 - Built with Flask, SQLite, and HTML/CSS for a simple and efficient user interface.
 - Designed to streamline the management of books, clients, and loans in a library system.
 
-### 3. [**School Management System**](https://github.com/AngelikaMajewska/School-Management-System)
-#### _Work in progress_ ####
-- A Django-based application for managing students, teachers, subjects, classrooms, and schedules in a school environment.
-- Features include:
-  - Adding, editing, and managing student, teacher, and subject records.
-  - Assigning subjects to students and scheduling classes.
-  - Automatically calculating and updating student GPA based on grades.
-  - Viewing teacher, student, and subject details with related schedules.
-  - Role-based access control with authentication for admins, teachers, and students.
-  - Custom forms for user authentication and data input, including a login form with validation.
- - Built with Django, SQLite, HTML, CSS and JavaScript(on further stages) for an efficient and user-friendly experience.
- - Designed to simplify academic management and enhance school administration.
-
 ---
 
 ## 🌱 A Little More About Me
