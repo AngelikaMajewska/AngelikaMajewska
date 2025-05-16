@@ -48,7 +48,7 @@ Here are a few examples of my work.
 
 ## 🌱 A Little More About Me
 - 🔭 I’m currently working on enhancing my skills as a Python Developer.
-- 🌌 I am fascinated by **extreme weather events**, **astronomy**, **home plants** and **foreign languages**.
+- 🌌 I am fascinated by **extreme weather events**, **astronomy**, **indoor plants** and **foreign languages**.
 
 ---
 
