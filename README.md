@@ -1,10 +1,10 @@
-# 👋 Hi there! Welcome to my GitHub Profile
+# Hi there! Welcome to my GitHub Profile
 
 I am a **detail-oriented and analytical individual** who enjoys solving complex problems and constantly learning new skills. My journey in tech combines a love for **data analysis** and **programming**.
 
 ---
 
-## 🔧 Technologies and Tools I Use
+## 💻 Technologies and Tools I Use
 - **Languages:** Python, SQL, HTML/CSS
 - **Databases:** PostgreSQL, SQLite
 - **Other Tools:** Git, pgAdmin, PyCharm
@@ -12,7 +12,7 @@ I am a **detail-oriented and analytical individual** who enjoys solving complex 
 
 ---
 
-## 🚀 My Projects
+## 📚 My Projects
 Here are a few examples of my work.
 ### 1. [**Plant Caretaker**](https://github.com/AngelikaMajewska/PlantCaretaker)
 -  Django-based application designed to help users manage and monitor the care of their plants.
@@ -47,8 +47,8 @@ Here are a few examples of my work.
 ---
 
 ## 🌱 A Little More About Me
-- 🔭 I’m currently working on enhancing my skills as a Python Developer.
-- 🌌 I am fascinated by **extreme weather events**, **astronomy**, **indoor plants** and **foreign languages**.
+- I’m currently working on enhancing my skills as a Python Developer.
+- I am fascinated by **extreme weather events**, **astronomy**, **indoor plants** and **foreign languages**.
 
 ---
 
